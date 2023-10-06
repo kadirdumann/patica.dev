@@ -1,0 +1,2 @@
+public class DortVeBesKuvveti {
+}
